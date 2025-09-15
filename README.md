@@ -16,4 +16,4 @@
 -   Seaborn / Matplotlib
 -   Statsmodels
 
-더 자세한 내용은 [Template_오지원_202431541_term_project.ipynb](https://github.com/whsskqorhvmek/prob_stats/blob/430455a132ff5eab023c4c0114f36c9ee7091b07/Template_%EC%98%A4%EC%A7%80%EC%9B%90_202431541_term_project.ipynb) 파일을 참고하세요.
+더 자세한 내용은 [Template_오지원_202431541_term_project.ipynb]https://github.com/whsskqorhvmek/prob_stats/blob/31dc65c9bf27ab3423251b7e4416391d7c685744/Template_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB_202431541_term_project.ipynb 파일을 참고하세요.
