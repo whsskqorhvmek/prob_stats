@@ -16,4 +16,4 @@
 -   Seaborn / Matplotlib
 -   Statsmodels
 
-더 자세한 내용은 [[TermProject_Movie_분석.md](TermProject_Movie_분석.md)](https://github.com/whsskqorhvmek/prob_stats/blob/d26be3745614a27bdd6561e3bd74f396efc77dd1/Template_%EC%98%A4%EC%A7%80%EC%9B%90_202431541_term_project.ipynb) 파일을 참고하세요.
+더 자세한 내용은 https://github.com/whsskqorhvmek/prob_stats/blob/430455a132ff5eab023c4c0114f36c9ee7091b07/Template_%EC%98%A4%EC%A7%80%EC%9B%90_202431541_term_project.ipynb 파일을 참고하세요.
